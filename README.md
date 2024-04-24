@@ -27,7 +27,7 @@ XGBoost is chosen for its gradient boosting framework, optimizing accuracy and c
 We compare the performance of both models, considering metrics like RMSE, MAE, and error ratios. Visualizations further illustrate the actual vs. predicted stream counts, providing insights into model effectiveness.
 
 ## Recommendations and Future Work
-To further improve predictive accuracy and uncover insights, we propose several avenues for future exploration, including feature engineering, hyperparameter tuning, ensemble methods, and model interpretability techniques.
+To further improve predictive accuracy and uncover insights, we propose several avenues for future exploration, including feature engineering, hyperparameter tuning, ensemble methods, feature selection and many more.
 
 ## Contributors
 - Venkatesh Arun Moorthy
