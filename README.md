@@ -37,6 +37,6 @@ To further improve predictive accuracy and uncover insights, we propose several 
 ## References
 - Kaggle: [Taylor Swift Spotify Songs Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset))
 - Kworb.net: [Taylor Swift Spotify Song Information]([https://kworb.net/spotify/artist/06HL4z0CvFAxyc27GXpf02_songs.html](https://kworb.net/spotify/artist/06HL4z0CvFAxyc27GXpf02_songs.html))
-- Geeks for geeks: [Machine Learning Model Detials](https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
-https://www.geeksforgeeks.org/xgboost/)
+- Geeks for geeks: [Machine Learning Model Detials](https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/)
+([https://www.geeksforgeeks.org/xgboos/](https://www.geeksforgeeks.org/xgboost/))
 
